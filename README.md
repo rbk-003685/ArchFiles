@@ -19,3 +19,4 @@
 18. Xfce4-screenshooter
 19. Nerd Fonts
 20. Conky
+21. gnome-polkit
