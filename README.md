@@ -20,3 +20,7 @@
 19. Nerd Fonts
 20. Conky
 21. gnome-polkit
+22. Yay
+23. bash pacui
+24. Oh-my-zsh
+25. 
